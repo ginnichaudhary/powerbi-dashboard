@@ -1,0 +1,5 @@
+# This project uses Power BI Desktop for data visualization.
+# No additional Python libraries are required to run the dashboard.
+
+Power BI Desktop
+Microsoft Excel or Google Sheets
